@@ -1,4 +1,4 @@
-# 🎮 Prateek Tomar — Game Developer | Code Wizard | AI Explorer
+# 🎮 Prateek Tomar — Game Developer | AI Explorer
 
 Hey there! I’m a Unity game developer from New Delhi with 3+ years of crafting immersive gameplay, smart AI, and blazing-fast builds. I specialize in C#, Unity, and squeezing every drop of performance out of my code.
 
