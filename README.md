@@ -1,18 +1,57 @@
-# 🎮 Prateek Tomar — Game Developer | AI Explorer
+# 🎮 PRATEEK TOMAR - TERMINAL ADVENTURE
 
-Hey there! I’m a Unity game developer from New Delhi with 3+ years of crafting immersive gameplay, smart AI, and blazing-fast builds. I specialize in C#, Unity, and squeezing every drop of performance out of my code.
+# ======================================
 
-From FPS mayhem to endless runners, I’ve:
-- 🚀 Boosted frame rates by 25% using Unity Profiler  
-- 🧠 Built intelligent enemies with NavMesh & State Machines  
-- ⚙️ Engineered 50+ levels using MVC & Object Pooling  
-- 💸 Integrated ads & IAPs that actually increase revenue  
-- 🎮 Helped teams ship scalable games with clean architecture
+echo "🚀 INITIALIZING DEVELOPER PROFILE..."
+sleep 1
+echo "🎯 TARGET: Game Developer | AI Explorer"
+echo "📍 LOCATION: New Delhi, India"
+echo "⏱️ EXPERIENCE: 3+ years"
+echo ""
 
-But I don’t stop at games — I’m also deeply passionate about AI. I'm constantly exploring how to leverage it to the fullest.  
-🧘‍♂️ Built [ArthaChat.com](https://arthachat.com) — a Vedic, spiritual AI chat experience (and many more projects are in the pipeline!)
+echo "🔍 SCANNING SKILLS..."
+sleep 0.5
+echo "✅ C# - MASTERED"
+echo "✅ Unity - MASTERED"
+echo "✅ Performance Optimization - MASTERED"
+echo "✅ AI Integration - MASTERED"
+echo ""
 
-Let’s build something awesome — whether it's with pixels or prompts.
+echo "🎮 GAME PROJECTS LOADING..."
+sleep 0.8
+echo "📊 FPS Games: Frame rate boosted by 25% using Unity Profiler"
+echo "🧠 AI Games: Intelligent enemies with NavMesh & State Machines"
+echo "⚙️ Level Design: 50+ levels using MVC & Object Pooling"
+echo "💰 Monetization: Ads & IAPs that actually increase revenue"
+echo "🏗️ Architecture: Scalable games with clean code"
+echo ""
 
-🔗 [Portfolio](https://prateektomar.netlify.app) | [LinkedIn](https://linkedin.com/in/prateek-tomar1)  
-🐙 [GitHub Projects](https://github.com/prateektomar123)
+echo "🤖 AI PROJECTS INITIALIZING..."
+sleep 1
+echo "🧘‍♂️ ArthaChat.com - Vedic spiritual AI chat experience"
+echo "🚧 More AI projects in development pipeline..."
+echo ""
+
+echo "🎯 SPECIALIZATIONS:"
+echo " • Performance optimization & profiling"
+echo " • AI integration & machine learning"
+echo " • Scalable game architecture"
+echo " • Cross-platform development"
+echo " • Revenue optimization"
+echo ""
+
+echo "🎮 GAME MODES AVAILABLE:"
+echo " 1. Quick Build - Fast prototype mode"
+echo " 2. Performance Mode - Optimized for speed"
+echo " 3. AI Beast Mode - Full AI integration"
+echo ""
+
+echo "🚀 READY TO BUILD SOMETHING AWESOME!"
+echo " Whether it's pixels or prompts, let's create magic!"
+echo ""
+echo "💻 Type 'start' to begin development..."
+echo " Type 'skills' to view detailed skills"
+echo " Type 'projects' to see portfolio"
+echo " Type 'exit' to close terminal"
+echo ""
+echo "> "
