@@ -1,66 +1,140 @@
 # 🎮 PRATEEK TOMAR - TERMINAL ADVENTURE
 
-# ======================================
+<div align="center">
 
-## 🚀 INITIALIZING DEVELOPER PROFILE...
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    🚀 INITIALIZING DEVELOPER PROFILE...      ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-**🎯 TARGET:** Game Developer | AI Explorer  
-**📍 LOCATION:** New Delhi, India  
-**⏱️ EXPERIENCE:** 3+ years
+</div>
 
----
+## 🎯 TARGET: Game Developer | AI Explorer
 
-## 🔍 SCANNING SKILLS...
+## 📍 LOCATION: New Delhi, India
 
-✅ **C#** - MASTERED  
-✅ **Unity** - MASTERED  
-✅ **Performance Optimization** - MASTERED  
-✅ **AI Integration** - MASTERED
-
----
-
-## 🎮 GAME PROJECTS LOADING...
-
-📊 **FPS Games:** Frame rate boosted by 25% using Unity Profiler  
-🧠 **AI Games:** Intelligent enemies with NavMesh & State Machines  
-⚙️ **Level Design:** 50+ levels using MVC & Object Pooling  
-💰 **Monetization:** Ads & IAPs that actually increase revenue  
-🏗️ **Architecture:** Scalable games with clean code
+## ⏱️ EXPERIENCE: 3+ years
 
 ---
 
-## 🤖 AI PROJECTS INITIALIZING...
+<div align="center">
 
-🧘‍♂️ **ArthaChat.com** - Vedic spiritual AI chat experience  
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    🔍 SCANNING SKILLS...                    ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+| Skill                        | Status | Level    |
+| ---------------------------- | ------ | -------- |
+| **C#**                       | ✅     | MASTERED |
+| **Unity**                    | ✅     | MASTERED |
+| **Performance Optimization** | ✅     | MASTERED |
+| **AI Integration**           | ✅     | MASTERED |
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                 🎮 GAME PROJECTS LOADING...                 ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+```bash
+📊 FPS Games: Frame rate boosted by 25% using Unity Profiler
+🧠 AI Games: Intelligent enemies with NavMesh & State Machines
+⚙️ Level Design: 50+ levels using MVC & Object Pooling
+💰 Monetization: Ads & IAPs that actually increase revenue
+🏗️ Architecture: Scalable games with clean code
+```
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                🤖 AI PROJECTS INITIALIZING...               ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+```bash
+🧘‍♂️ ArthaChat.com - Vedic spiritual AI chat experience
 🚧 More AI projects in development pipeline...
+```
 
 ---
 
-## 🎯 SPECIALIZATIONS:
+<div align="center">
 
-• Performance optimization & profiling  
-• AI integration & machine learning  
-• Scalable game architecture  
-• Cross-platform development  
+```
+╔══════════════════════════════════════════════════════════════╗
+║                     🎯 SPECIALIZATIONS                      ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+```bash
+• Performance optimization & profiling
+• AI integration & machine learning
+• Scalable game architecture
+• Cross-platform development
 • Revenue optimization
+```
 
 ---
 
-## 🎮 GAME MODES AVAILABLE:
+<div align="center">
 
-1. **Quick Build** - Fast prototype mode
-2. **Performance Mode** - Optimized for speed
-3. **AI Beast Mode** - Full AI integration
+```
+╔══════════════════════════════════════════════════════════════╗
+║                  🎮 GAME MODES AVAILABLE                    ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+```bash
+1. Quick Build - Fast prototype mode
+2. Performance Mode - Optimized for speed
+3. AI Beast Mode - Full AI integration
+```
 
 ---
 
-## 🚀 READY TO BUILD SOMETHING AWESOME!
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║               🚀 READY TO BUILD SOMETHING AWESOME!          ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 Whether it's pixels or prompts, let's create magic!
 
 ---
 
-## 💻 COMMANDS AVAILABLE:
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                   💻 COMMANDS AVAILABLE                     ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ```bash
 start     # Begin development
@@ -71,23 +145,55 @@ exit      # Close terminal
 
 ---
 
-## 📊 GITHUB STATS
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                     📊 GITHUB STATS                         ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=prateektomar123&show_icons=true&theme=radical)
 
 ---
 
-## 🎮 RECENT ACTIVITY
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                   🎮 RECENT ACTIVITY                        ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
 
-## 🎯 CURRENT STATUS
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                     🎯 CURRENT STATUS                       ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=prateektomar123&color=brightgreen)
 
 ---
 
-_Type `start` to begin development..._ 🚀
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║              > Type 'start' to begin development...         ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
